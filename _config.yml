@@ -1,32 +1,34 @@
+---
 title: Jhin1m
-description: "Jhin1m's blog"
-author:
-  name: "Jhin1m"
-  email: "jhin1m@github.com"
-  url: "jhin1m.github.io/blog"
-
-baseurl: /blog
-
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 3
-paginate_path: /page/:num/
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+description: Jhin1m's blog
+author:
+  name: Jhin1m
+  email: jhin1m@github.com
+  url: jhin1m.github.io/blog
+baseurl: "/blog"
+source: "."
+destination: "./_site"
+permalink: "/:title"
+paginate: 3
+paginate_path: "/page/:num/"
 future: true
 plugins:
-  - jekyll-seo-tag
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-owner : "Jhin1m"
-year : "2019"
+- jekyll-seo-tag
+- jekyll-paginate
+- jekyll-sitemap
+owner: Jhin1m
+year: '2019'
