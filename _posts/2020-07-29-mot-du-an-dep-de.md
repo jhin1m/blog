@@ -1,9 +1,7 @@
 ---
 published: false
 ---
----
-published: true
----
+
 Ngày cuối cùng của năm, tôi ngồi ở quán cafe trong hẻm nhỏ, ngắm nhìn xung quanh, nói về dự án nhỏ mà tôi sắp triển khai. Lúc đó khoảng 4h chiều, đám mây xám che khuất ánh mặt trời, không gian yên tĩnh và có gió. Tôi rít thuốc như động cơ hơi nước thời tiền sử, khói thuốc vương quanh người, mờ ảo hơn sương. Với chính tôi, điều thú vị ở những điều thuốc đó là khi ngậm thuốc thì cũng ngậm mồm. Khi bạn tôi hút thuốc, im lặng và ngồi yên, tôi thấy hắn thật thà đáng yêu.
 
 Gần năm đó, sau khi chỗ làm tổ chức party end year, giám đốc phổ biến kế hoạch để chúng tôi chuẩn bị một cuộc tác chiến lớn, xong việc ai cũng sẵn sàng chúc nhau vài câu rồi đi về. Tâm - cô gái mà câu đầu tiên cô nói với tôi là tiếng Trung Quốc mà chẳng ai hiểu, đi qua đi lại trước mặt tôi và hỏi về dự định năm mới. Trong lúc đầu óc đang mơ tưởng về hiện thực ngon cơm, tôi buột miệng kể hết chi tiết về dự án tôi có ý định làm - Một website truyện tranh cho con gái...
