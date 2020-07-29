@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 Ngày cuối cùng của năm, tôi ngồi ở quán cafe trong hẻm nhỏ, ngắm nhìn xung quanh, nói về dự án nhỏ mà tôi sắp triển khai. Lúc đó khoảng 4h chiều, đám mây xám che khuất ánh mặt trời, không gian yên tĩnh và có gió. Tôi rít thuốc như động cơ hơi nước thời tiền sử, khói thuốc vương quanh người, mờ ảo hơn sương. Với chính tôi, điều thú vị ở những điều thuốc đó là khi ngậm thuốc thì cũng ngậm mồm. Khi bạn tôi hút thuốc, im lặng và ngồi yên, tôi thấy hắn thật thà đáng yêu.
